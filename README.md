@@ -1,6 +1,10 @@
 # DoS-Framework
 Collection of DoS Tools
 
+First of all,
+
+<code>git clone https://github.com/FakeFBI/DoS-Framework.git</code>
+
 To run it, you should install "Term::ANSIScreen" perl module and "requests" Python 2 module. You can install them by executing the scripts in "installation-scripts" directory. (e.g. for Fedora GNU/Linux: <code>./fedora-install.sh</code>). Then execute with <code>perl execme.pl</code> or <code>./execme.pl</code>
 
 To use all features you should install Go, Python3, Python2, Perl, and Bash (most distributions are O.K.).
