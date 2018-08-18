@@ -13,7 +13,7 @@ You shouldn't change the name of ".pl" file. If it does, you should change "exec
 
 You can open issue for adding more tools or fork it.
 
-Last warning: Doser.py tool is buggy in POST method, so you can give it a chance by trying manually:
+Last warning: "doser.py" tool is buggy in POST method, so you can give it a chance by trying manually:
 
 For POST:
 
