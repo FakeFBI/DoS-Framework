@@ -11,7 +11,7 @@ If there's no available package for "requests" Python 2 module, you can install 
 
 To use all features you should install Go, Python3, Python2, Perl, and Bash (most distributions are O.K.).
 
-You shouldn't change the name of ".pl" file. If it does, you should change "exec "perl WHATEVER.pl";" commands in ".pl" file.
+You shouldn't change the name of ".pl" file. If it does, you should change "exec "perl WHATEVER.pl";" commands in ".pl" file. Also you shouldn't change the locations of DoS tools. If you do, you should change the perl script accordingly.
 
 You can open issue for adding more tools or fork it.
 
@@ -30,3 +30,5 @@ Critical note: I am not responsible if you harm someone's server or get into tro
 I hope this tool will become inspiring and useful for you.
 
 Final situation: Everything is updated.
+
+Update: It can now be used on Termux. Just use "termux-installation.sh" script to install. After installation "dos-framework" command will be enough to execute "perl execme.pl" in a short way.
