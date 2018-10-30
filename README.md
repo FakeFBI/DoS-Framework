@@ -5,7 +5,7 @@ First of all,
 
 <code>git clone https://github.com/FakeFBI/DoS-Framework.git</code>
 
-To run it, you should install "Term::ANSIScreen" perl module and "requests" Python 2 module. You can install them by executing the scripts in "installation-scripts" directory. (e.g. for Fedora GNU/Linux: <code>./fedora-install.sh</code>). Then execute by typing <code>perl execme.pl</code> or <code>./execme.pl</code>
+To run it, you should install "Term::ANSIScreen" perl module and "requests" Python 2 module. You can install them by executing the scripts in "installation-scripts" directory. (e.g. for Fedora GNU/Linux: <code>./fedora-install.sh</code>). Then, execute by typing <code>perl execme.pl</code> or <code>./execme.pl</code> using <code>chmod +x execme.pl</code>
 
 If there's no available package for "requests" Python 2 module, you can install it by typing <code>pip install requests</code>.
 
@@ -31,4 +31,10 @@ I hope this tool will become inspiring and useful for you.
 
 Final situation: Everything is updated.
 
-Update: It can now be used on Termux. Just use "termux-installation.sh" script to install. After installation "dos-framework" command will be enough to execute "perl execme.pl" in a short way.
+Update: It can now be used on Termux. Just use "termux-installation.sh" script to install. After installation, <code>dos</code> command will be enough to execute "perl execme.pl" in a short way.
+
+To uninstall:
+
+For GNU/Linux distributions,
+
+For Termux,
