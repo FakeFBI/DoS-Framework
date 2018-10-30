@@ -36,5 +36,9 @@ Update: It can now be used on Termux. Just use "termux-installation.sh" script t
 To uninstall:
 
 For GNU/Linux distributions,
+Using "uninstallation-scripts", uninstall DoS-Framework. If you want to remove basic tools like Go, Python etc. Then you should remove yourself.
 
 For Termux,
+Use "termux-uninstall.sh" in the "uninstallation-scripts" folder. If you want to remove basic tools like Go, Python etc. Then you should remove yourself.
+
+That's all.
